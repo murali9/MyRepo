@@ -21,6 +21,9 @@
     //
 }
 
+-(void)sampleBranchMethod {
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
